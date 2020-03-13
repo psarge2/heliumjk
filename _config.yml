@@ -28,16 +28,16 @@ author :
   site: https://lantoniotrento.github.io
   description : I&#39;m a web master interested in communication applied to web marketing.
   image : social-image.png
-  email : lantoniotrento@gmail.com
+  email : support@sargesites.com
   github : antoniotrento
-  twitter : lantoniotrento
-  facebook: lantoniotrento
-  linkedin: antoniotrento
-  instagram: lantoniotrento
-  pinterest: antoniotrento
+  twitter : sargesites
+  facebook: sargesites
+  linkedin: sargesites
+  instagram: sargesites
+  pinterest: sargesites
   feedburner : 
 
-twitter_username: lantoniotrento
+twitter_username: sargesites
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
